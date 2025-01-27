@@ -45,7 +45,13 @@ me.say_hi()
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=danielnwolu&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=danielnwolu&theme=radical" alt="GitHub Streak" />
+</div>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=danielnwolu&theme=radical" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=danielnwolu" />
+    <img src="https://streak-stats.demolab.com?user=danielnwolu" alt="GitHub Streak Stats" />
+  </picture>
 </div>
 
 ## 🌱 Current Focus

@@ -17,10 +17,9 @@ I love architecting efficient backend systems that power dynamic applications, e
 
 🔹 **Open to collaborations and new opportunities!** Let's build something amazing together. 🚀
 
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danielnwolu" alt="danielnwolu" /></a> </p>
 
-- 🔭 I’m currently working on a fastapi app for event booking and management [Feteflex](feteflex.com)
+- 🔭 I’m currently working on a fast API app for event booking and management [Feteflex](feteflex.com)
 
 - 🌱 I’m currently learning Cloud Technologies **Google Cloud**
 
@@ -30,7 +29,7 @@ I love architecting efficient backend systems that power dynamic applications, e
 
 - 📝 I regularly write articles on [https://medium.com/@nwoludaniel.c](https://medium.com/@nwoludaniel.c)
 
-- 💬 Ask me about **Fast-api, Express, Node.js and Python**
+- 💬 Ask me about **Fast-API, Express, Node.js and Python**
 
 - 📫 How to reach me **nwoludaniel.c@gmail.com**
 
@@ -38,9 +37,14 @@ I love architecting efficient backend systems that power dynamic applications, e
 
 - ⚡ Fun fact **I love music and video games**
 
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/danielnwolu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/danielnwolu/" height="30" width="40" /></a>
+<a href="https://medium.com/@nwoludaniel.c" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@nwoludaniel.c" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
